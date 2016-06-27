@@ -1,0 +1,840 @@
+C MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.99%
+low Familiarity:       11.99%
+Moderate Familiarity:  60.43%
+High Familiarity:      24.18%
+Very high Familiarity: 1.42%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.83%
+low Familiarity:       4.01%
+Moderate Familiarity:  58.41%
+High Familiarity:      34.69%
+Very high Familiarity: 2.06%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.38%
+low Familiarity:       0.87%
+Moderate Familiarity:  27.7%
+High Familiarity:      62.53%
+Very high Familiarity: 8.51%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.17%
+low Familiarity:       0.23%
+Moderate Familiarity:  6.51%
+High Familiarity:      66.98%
+Very high Familiarity: 26.1%
+
+=========================================
+C MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.48%
+low Familiarity:       12.65%
+Moderate Familiarity:  58.85%
+High Familiarity:      24.96%
+Very high Familiarity: 1.06%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  1.03%
+low Familiarity:       4.5%
+Moderate Familiarity:  57.1%
+High Familiarity:      35.28%
+Very high Familiarity: 2.09%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.33%
+low Familiarity:       1.02%
+Moderate Familiarity:  29.19%
+High Familiarity:      61.94%
+Very high Familiarity: 7.52%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.0%
+Moderate Familiarity:  8.4%
+High Familiarity:      59.75%
+Very high Familiarity: 31.85%
+
+=========================================
+C Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.59%
+low Familiarity:       9.45%
+Moderate Familiarity:  61.97%
+High Familiarity:      25.24%
+Very high Familiarity: 1.75%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.88%
+low Familiarity:       3.86%
+Moderate Familiarity:  56.63%
+High Familiarity:      35.94%
+Very high Familiarity: 2.69%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.4%
+low Familiarity:       0.86%
+Moderate Familiarity:  26.46%
+High Familiarity:      61.8%
+Very high Familiarity: 10.48%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.34%
+low Familiarity:       0.6%
+Moderate Familiarity:  7.91%
+High Familiarity:      62.55%
+Very high Familiarity: 28.6%
+
+=========================================
+C Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.43%
+low Familiarity:       9.63%
+Moderate Familiarity:  59.59%
+High Familiarity:      26.73%
+Very high Familiarity: 1.62%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.71%
+low Familiarity:       3.73%
+Moderate Familiarity:  58.01%
+High Familiarity:      34.17%
+Very high Familiarity: 3.38%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.45%
+low Familiarity:       0.48%
+Moderate Familiarity:  25.88%
+High Familiarity:      62.13%
+Very high Familiarity: 11.06%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.84%
+low Familiarity:       0.0%
+Moderate Familiarity:  5.03%
+High Familiarity:      63.31%
+Very high Familiarity: 30.82%
+
+=========================================
+D MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.75%
+low Familiarity:       11.17%
+Moderate Familiarity:  61.93%
+High Familiarity:      23.58%
+Very high Familiarity: 1.58%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.72%
+low Familiarity:       3.99%
+Moderate Familiarity:  58.96%
+High Familiarity:      34.19%
+Very high Familiarity: 2.15%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.28%
+low Familiarity:       0.64%
+Moderate Familiarity:  27.04%
+High Familiarity:      63.01%
+Very high Familiarity: 9.03%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.19%
+low Familiarity:       0.31%
+Moderate Familiarity:  6.67%
+High Familiarity:      64.9%
+Very high Familiarity: 27.93%
+
+=========================================
+D MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.8%
+low Familiarity:       12.35%
+Moderate Familiarity:  62.13%
+High Familiarity:      21.73%
+Very high Familiarity: 0.99%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  1.03%
+low Familiarity:       4.94%
+Moderate Familiarity:  59.08%
+High Familiarity:      33.3%
+Very high Familiarity: 1.65%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.36%
+low Familiarity:       0.7%
+Moderate Familiarity:  29.63%
+High Familiarity:      60.66%
+Very high Familiarity: 8.65%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.24%
+Moderate Familiarity:  7.4%
+High Familiarity:      62.29%
+Very high Familiarity: 30.07%
+
+=========================================
+D Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  3.13%
+low Familiarity:       13.54%
+Moderate Familiarity:  58.68%
+High Familiarity:      23.78%
+Very high Familiarity: 0.87%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.93%
+low Familiarity:       5.29%
+Moderate Familiarity:  56.91%
+High Familiarity:      35.42%
+Very high Familiarity: 1.45%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.65%
+low Familiarity:       1.36%
+Moderate Familiarity:  28.67%
+High Familiarity:      59.68%
+Very high Familiarity: 9.65%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.26%
+low Familiarity:       0.52%
+Moderate Familiarity:  7.49%
+High Familiarity:      63.31%
+Very high Familiarity: 28.42%
+
+=========================================
+D Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.94%
+low Familiarity:       10.99%
+Moderate Familiarity:  56.03%
+High Familiarity:      28.88%
+Very high Familiarity: 2.16%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.82%
+low Familiarity:       3.68%
+Moderate Familiarity:  57.43%
+High Familiarity:      35.22%
+Very high Familiarity: 2.86%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.67%
+low Familiarity:       0.67%
+Moderate Familiarity:  26.56%
+High Familiarity:      61.61%
+Very high Familiarity: 10.49%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.0%
+Moderate Familiarity:  5.31%
+High Familiarity:      66.81%
+Very high Familiarity: 27.88%
+
+=========================================
+E MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.15%
+low Familiarity:       10.33%
+Moderate Familiarity:  63.09%
+High Familiarity:      23.11%
+Very high Familiarity: 1.32%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.72%
+low Familiarity:       3.97%
+Moderate Familiarity:  58.1%
+High Familiarity:      35.16%
+Very high Familiarity: 2.04%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.25%
+low Familiarity:       0.75%
+Moderate Familiarity:  27.05%
+High Familiarity:      63.24%
+Very high Familiarity: 8.71%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.13%
+low Familiarity:       0.52%
+Moderate Familiarity:  8.3%
+High Familiarity:      67.44%
+Very high Familiarity: 23.61%
+
+=========================================
+E MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.63%
+low Familiarity:       11.58%
+Moderate Familiarity:  63.28%
+High Familiarity:      22.03%
+Very high Familiarity: 1.48%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.79%
+low Familiarity:       3.89%
+Moderate Familiarity:  58.77%
+High Familiarity:      34.35%
+Very high Familiarity: 2.19%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.52%
+low Familiarity:       0.63%
+Moderate Familiarity:  27.09%
+High Familiarity:      63.13%
+Very high Familiarity: 8.64%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.26%
+low Familiarity:       0.13%
+Moderate Familiarity:  7.99%
+High Familiarity:      63.92%
+Very high Familiarity: 27.71%
+
+=========================================
+F MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.46%
+low Familiarity:       12.95%
+Moderate Familiarity:  59.56%
+High Familiarity:      24.08%
+Very high Familiarity: 0.95%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  1.03%
+low Familiarity:       4.67%
+Moderate Familiarity:  58.41%
+High Familiarity:      34.0%
+Very high Familiarity: 1.89%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.39%
+low Familiarity:       1.03%
+Moderate Familiarity:  29.27%
+High Familiarity:      61.19%
+Very high Familiarity: 8.12%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.61%
+Moderate Familiarity:  9.45%
+High Familiarity:      61.45%
+Very high Familiarity: 28.48%
+
+=========================================
+F MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.45%
+low Familiarity:       11.59%
+Moderate Familiarity:  60.18%
+High Familiarity:      23.92%
+Very high Familiarity: 1.86%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.97%
+low Familiarity:       4.91%
+Moderate Familiarity:  58.02%
+High Familiarity:      34.38%
+Very high Familiarity: 1.71%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.43%
+low Familiarity:       0.91%
+Moderate Familiarity:  29.0%
+High Familiarity:      59.08%
+Very high Familiarity: 10.58%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.2%
+low Familiarity:       0.0%
+Moderate Familiarity:  7.55%
+High Familiarity:      64.61%
+Very high Familiarity: 27.63%
+
+=========================================
+F Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.55%
+low Familiarity:       8.4%
+Moderate Familiarity:  63.11%
+High Familiarity:      25.39%
+Very high Familiarity: 1.55%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.81%
+low Familiarity:       3.81%
+Moderate Familiarity:  56.69%
+High Familiarity:      35.82%
+Very high Familiarity: 2.87%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.4%
+low Familiarity:       0.73%
+Moderate Familiarity:  25.06%
+High Familiarity:      63.22%
+Very high Familiarity: 10.59%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.29%
+low Familiarity:       0.72%
+Moderate Familiarity:  6.17%
+High Familiarity:      62.12%
+Very high Familiarity: 30.7%
+
+=========================================
+F Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.01%
+low Familiarity:       9.56%
+Moderate Familiarity:  62.1%
+High Familiarity:      24.6%
+Very high Familiarity: 1.74%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  1.01%
+low Familiarity:       3.46%
+Moderate Familiarity:  57.42%
+High Familiarity:      35.47%
+Very high Familiarity: 2.65%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.36%
+low Familiarity:       0.8%
+Moderate Familiarity:  25.48%
+High Familiarity:      63.64%
+Very high Familiarity: 9.72%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.19%
+low Familiarity:       0.37%
+Moderate Familiarity:  5.06%
+High Familiarity:      66.1%
+Very high Familiarity: 28.28%
+
+=========================================
+G Major:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.87%
+low Familiarity:       10.78%
+Moderate Familiarity:  63.19%
+High Familiarity:      22.81%
+Very high Familiarity: 1.35%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.83%
+low Familiarity:       4.37%
+Moderate Familiarity:  57.69%
+High Familiarity:      35.03%
+Very high Familiarity: 2.07%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.25%
+low Familiarity:       0.77%
+Moderate Familiarity:  27.08%
+High Familiarity:      62.98%
+Very high Familiarity: 8.92%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.11%
+low Familiarity:       0.11%
+Moderate Familiarity:  5.98%
+High Familiarity:      69.21%
+Very high Familiarity: 24.59%
+
+=========================================
+G Minor:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.94%
+low Familiarity:       11.03%
+Moderate Familiarity:  63.72%
+High Familiarity:      22.51%
+Very high Familiarity: 0.79%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  1.19%
+low Familiarity:       4.4%
+Moderate Familiarity:  60.78%
+High Familiarity:      31.83%
+Very high Familiarity: 1.8%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.33%
+low Familiarity:       0.63%
+Moderate Familiarity:  30.84%
+High Familiarity:      59.79%
+Very high Familiarity: 8.42%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.26%
+Moderate Familiarity:  8.18%
+High Familiarity:      66.75%
+Very high Familiarity: 24.8%
+
+=========================================
+G Sharp Major:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.01%
+low Familiarity:       10.99%
+Moderate Familiarity:  60.32%
+High Familiarity:      25.03%
+Very high Familiarity: 1.65%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.86%
+low Familiarity:       4.32%
+Moderate Familiarity:  57.8%
+High Familiarity:      34.85%
+Very high Familiarity: 2.17%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.36%
+low Familiarity:       0.92%
+Moderate Familiarity:  26.2%
+High Familiarity:      61.74%
+Very high Familiarity: 10.77%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.26%
+low Familiarity:       0.52%
+Moderate Familiarity:  6.02%
+High Familiarity:      62.57%
+Very high Familiarity: 30.63%
+
+=========================================
+G Sharp Minor:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.4%
+low Familiarity:       7.96%
+Moderate Familiarity:  62.71%
+High Familiarity:      25.74%
+Very high Familiarity: 2.18%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.8%
+low Familiarity:       3.58%
+Moderate Familiarity:  57.16%
+High Familiarity:      35.98%
+Very high Familiarity: 2.49%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.22%
+low Familiarity:       0.98%
+Moderate Familiarity:  25.35%
+High Familiarity:      63.36%
+Very high Familiarity: 10.08%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.0%
+Moderate Familiarity:  7.25%
+High Familiarity:      58.02%
+Very high Familiarity: 34.73%
+
+=========================================
+A MAjor:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.13%
+low Familiarity:       10.87%
+Moderate Familiarity:  62.69%
+High Familiarity:      23.12%
+Very high Familiarity: 1.19%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.74%
+low Familiarity:       3.53%
+Moderate Familiarity:  58.64%
+High Familiarity:      34.97%
+Very high Familiarity: 2.12%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.25%
+low Familiarity:       0.78%
+Moderate Familiarity:  26.68%
+High Familiarity:      63.32%
+Very high Familiarity: 8.96%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.26%
+low Familiarity:       0.69%
+Moderate Familiarity:  6.13%
+High Familiarity:      65.75%
+Very high Familiarity: 27.18%
+
+=========================================
+A MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.75%
+low Familiarity:       11.91%
+Moderate Familiarity:  62.02%
+High Familiarity:      23.42%
+Very high Familiarity: 0.9%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.77%
+low Familiarity:       3.99%
+Moderate Familiarity:  59.9%
+High Familiarity:      33.85%
+Very high Familiarity: 1.49%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.35%
+low Familiarity:       0.56%
+Moderate Familiarity:  29.26%
+High Familiarity:      62.39%
+Very high Familiarity: 7.44%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.26%
+low Familiarity:       0.13%
+Moderate Familiarity:  6.91%
+High Familiarity:      67.93%
+Very high Familiarity: 24.77%
+
+=========================================
+A Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  2.49%
+low Familiarity:       13.76%
+Moderate Familiarity:  60.0%
+High Familiarity:      22.77%
+Very high Familiarity: 0.98%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.91%
+low Familiarity:       5.39%
+Moderate Familiarity:  58.3%
+High Familiarity:      33.29%
+Very high Familiarity: 2.12%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.4%
+low Familiarity:       1.16%
+Moderate Familiarity:  30.05%
+High Familiarity:      60.46%
+Very high Familiarity: 7.92%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.62%
+low Familiarity:       0.42%
+Moderate Familiarity:  9.77%
+High Familiarity:      65.49%
+Very high Familiarity: 23.7%
+
+=========================================
+A Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.97%
+low Familiarity:       9.63%
+Moderate Familiarity:  61.03%
+High Familiarity:      25.83%
+Very high Familiarity: 1.53%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.65%
+low Familiarity:       3.88%
+Moderate Familiarity:  58.41%
+High Familiarity:      34.59%
+Very high Familiarity: 2.47%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.48%
+low Familiarity:       0.84%
+Moderate Familiarity:  28.12%
+High Familiarity:      60.57%
+Very high Familiarity: 9.99%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.19%
+Moderate Familiarity:  6.69%
+High Familiarity:      63.38%
+Very high Familiarity: 29.74%
+
+=========================================
+B Major:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  0.93%
+low Familiarity:       9.37%
+Moderate Familiarity:  61.66%
+High Familiarity:      26.29%
+Very high Familiarity: 1.75%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.72%
+low Familiarity:       3.44%
+Moderate Familiarity:  58.2%
+High Familiarity:      35.22%
+Very high Familiarity: 2.43%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.66%
+low Familiarity:       0.72%
+Moderate Familiarity:  25.18%
+High Familiarity:      63.86%
+Very high Familiarity: 9.58%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.3%
+Moderate Familiarity:  7.47%
+High Familiarity:      63.41%
+Very high Familiarity: 28.81%
+
+=========================================
+B MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low Familiarity:  1.67%
+low Familiarity:       9.77%
+Moderate Familiarity:  62.2%
+High Familiarity:      24.95%
+Very high Familiarity: 1.41%
+
+Low medium Popularity:
+-------------------
+Very low Familiarity:  0.95%
+low Familiarity:       3.73%
+Moderate Familiarity:  57.77%
+High Familiarity:      35.28%
+Very high Familiarity: 2.28%
+
+High Medium Popularity:
+-------------------
+Very low Familiarity:  0.46%
+low Familiarity:       0.73%
+Moderate Familiarity:  27.82%
+High Familiarity:      62.15%
+Very high Familiarity: 8.83%
+
+High Popularity:
+-------------------
+Very low Familiarity:  0.0%
+low Familiarity:       0.33%
+Moderate Familiarity:  9.77%
+High Familiarity:      64.37%
+Very high Familiarity: 25.53%
+
+=========================================

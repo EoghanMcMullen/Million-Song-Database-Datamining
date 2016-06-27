@@ -1,0 +1,24 @@
+C major: 	9.86% of the dataset
+C minor:	2.19% of the dataset
+C_Sharp major:	6.04% of the dataset
+C_Sharp minor:	2.33% of the dataset
+D major:	9.1% of the dataset
+D minor:	2.27% of the dataset
+D_Sharp:	1.92% of the dataset
+D_Sharp minor:	0.94% of the dataset
+E major:	4.25% of the dataset
+E minor:	4.22% of the dataset
+F major:	4.47% of the dataset
+F minor:	2.62% of the dataset
+F_Sharp major:	3.16% of the dataset
+F_Sharp minor:	2.9% of the dataset
+G major:	10.47% of the dataset
+G minor:	2.1% of the dataset
+G_Sharp major:	3.83% of the dataset
+G_Sharp minor:	1.35% of the dataset
+A major:	6.77% of the dataset
+A minor:	4.48% of the dataset
+A_Sharp major:	2.99% of the dataset
+A_Sharp minor:	3.38% of the dataset
+B major:	3.3% of the dataset
+B minor:	5.06% of the dataset

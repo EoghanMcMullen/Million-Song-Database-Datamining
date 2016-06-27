@@ -1,0 +1,840 @@
+C MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.81%
+low artistHotness:       59.96%
+Moderate artistHotness:  31.75%
+High artistHotness:      0.48%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.63%
+low artistHotness:       52.93%
+Moderate artistHotness:  43.33%
+High artistHotness:      1.07%
+Very high artistHotness: 0.04%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.46%
+low artistHotness:       24.78%
+Moderate artistHotness:  70.57%
+High artistHotness:      3.89%
+Very high artistHotness: 0.3%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.17%
+low artistHotness:       7.09%
+Moderate artistHotness:  77.62%
+High artistHotness:      13.6%
+Very high artistHotness: 1.51%
+
+=========================================
+C MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.05%
+low artistHotness:       59.73%
+Moderate artistHotness:  31.95%
+High artistHotness:      0.27%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.6%
+low artistHotness:       52.52%
+Moderate artistHotness:  43.93%
+High artistHotness:      0.95%
+Very high artistHotness: 0.0%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.58%
+low artistHotness:       22.19%
+Moderate artistHotness:  73.6%
+High artistHotness:      3.18%
+Very high artistHotness: 0.44%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       4.94%
+Moderate artistHotness:  78.77%
+High artistHotness:      13.09%
+Very high artistHotness: 3.21%
+
+=========================================
+C Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  6.74%
+low artistHotness:       58.5%
+Moderate artistHotness:  33.95%
+High artistHotness:      0.81%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.56%
+low artistHotness:       52.11%
+Moderate artistHotness:  44.22%
+High artistHotness:      1.03%
+Very high artistHotness: 0.08%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.5%
+low artistHotness:       22.35%
+Moderate artistHotness:  72.79%
+High artistHotness:      3.85%
+Very high artistHotness: 0.5%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       8.43%
+Moderate artistHotness:  75.57%
+High artistHotness:      13.79%
+Very high artistHotness: 2.21%
+
+=========================================
+C Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.29%
+low artistHotness:       57.97%
+Moderate artistHotness:  34.38%
+High artistHotness:      0.36%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.21%
+low artistHotness:       52.13%
+Moderate artistHotness:  44.57%
+High artistHotness:      0.95%
+Very high artistHotness: 0.14%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.55%
+low artistHotness:       19.95%
+Moderate artistHotness:  75.14%
+High artistHotness:      3.8%
+Very high artistHotness: 0.55%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.21%
+low artistHotness:       4.82%
+Moderate artistHotness:  78.2%
+High artistHotness:      14.05%
+Very high artistHotness: 2.73%
+
+=========================================
+D MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.67%
+low artistHotness:       60.41%
+Moderate artistHotness:  31.3%
+High artistHotness:      0.62%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.73%
+low artistHotness:       52.32%
+Moderate artistHotness:  43.7%
+High artistHotness:      1.21%
+Very high artistHotness: 0.04%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.53%
+low artistHotness:       23.59%
+Moderate artistHotness:  71.92%
+High artistHotness:      3.57%
+Very high artistHotness: 0.4%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.06%
+low artistHotness:       6.48%
+Moderate artistHotness:  76.12%
+High artistHotness:      15.4%
+Very high artistHotness: 1.93%
+
+=========================================
+D MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.03%
+low artistHotness:       62.04%
+Moderate artistHotness:  30.57%
+High artistHotness:      0.36%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.85%
+low artistHotness:       53.45%
+Moderate artistHotness:  42.7%
+High artistHotness:      0.98%
+Very high artistHotness: 0.02%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.58%
+low artistHotness:       24.71%
+Moderate artistHotness:  71.12%
+High artistHotness:      3.45%
+Very high artistHotness: 0.14%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.24%
+low artistHotness:       7.4%
+Moderate artistHotness:  74.46%
+High artistHotness:      17.9%
+Very high artistHotness: 0.0%
+
+=========================================
+D Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.9%
+low artistHotness:       58.68%
+Moderate artistHotness:  33.07%
+High artistHotness:      0.35%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.12%
+low artistHotness:       52.86%
+Moderate artistHotness:  43.83%
+High artistHotness:      1.12%
+Very high artistHotness: 0.07%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.61%
+low artistHotness:       24.12%
+Moderate artistHotness:  70.62%
+High artistHotness:      4.38%
+Very high artistHotness: 0.27%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.72%
+Moderate artistHotness:  75.71%
+High artistHotness:      15.76%
+Very high artistHotness: 1.81%
+
+=========================================
+D Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.84%
+low artistHotness:       56.25%
+Moderate artistHotness:  33.41%
+High artistHotness:      1.51%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  1.99%
+low artistHotness:       50.94%
+Moderate artistHotness:  45.79%
+High artistHotness:      1.17%
+Very high artistHotness: 0.1%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.24%
+low artistHotness:       20.62%
+Moderate artistHotness:  74.71%
+High artistHotness:      3.94%
+Very high artistHotness: 0.49%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       3.98%
+Moderate artistHotness:  81.42%
+High artistHotness:      12.39%
+Very high artistHotness: 2.21%
+
+=========================================
+E MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  9.14%
+low artistHotness:       59.31%
+Moderate artistHotness:  30.8%
+High artistHotness:      0.75%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.83%
+low artistHotness:       52.13%
+Moderate artistHotness:  43.77%
+High artistHotness:      1.19%
+Very high artistHotness: 0.08%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.49%
+low artistHotness:       23.26%
+Moderate artistHotness:  71.42%
+High artistHotness:      4.5%
+Very high artistHotness: 0.33%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       7.13%
+Moderate artistHotness:  77.3%
+High artistHotness:      13.62%
+Very high artistHotness: 1.95%
+
+=========================================
+E MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  6.85%
+low artistHotness:       61.71%
+Moderate artistHotness:  30.95%
+High artistHotness:      0.44%
+Very high artistHotness: 0.05%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.66%
+low artistHotness:       51.75%
+Moderate artistHotness:  44.6%
+High artistHotness:      0.97%
+Very high artistHotness: 0.01%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.42%
+low artistHotness:       23.04%
+Moderate artistHotness:  72.9%
+High artistHotness:      3.35%
+Very high artistHotness: 0.29%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.39%
+low artistHotness:       5.67%
+Moderate artistHotness:  76.93%
+High artistHotness:      14.95%
+Very high artistHotness: 2.06%
+
+=========================================
+F MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.88%
+low artistHotness:       58.58%
+Moderate artistHotness:  33.02%
+High artistHotness:      0.49%
+Very high artistHotness: 0.04%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.71%
+low artistHotness:       52.14%
+Moderate artistHotness:  44.02%
+High artistHotness:      1.11%
+Very high artistHotness: 0.03%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.52%
+low artistHotness:       25.2%
+Moderate artistHotness:  70.25%
+High artistHotness:      3.67%
+Very high artistHotness: 0.36%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.48%
+low artistHotness:       6.91%
+Moderate artistHotness:  77.33%
+High artistHotness:      13.58%
+Very high artistHotness: 1.7%
+
+=========================================
+F MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.43%
+low artistHotness:       58.17%
+Moderate artistHotness:  33.73%
+High artistHotness:      0.67%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  3.08%
+low artistHotness:       52.67%
+Moderate artistHotness:  43.42%
+High artistHotness:      0.73%
+Very high artistHotness: 0.1%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.5%
+low artistHotness:       24.84%
+Moderate artistHotness:  70.64%
+High artistHotness:      3.32%
+Very high artistHotness: 0.69%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.56%
+Moderate artistHotness:  75.94%
+High artistHotness:      14.51%
+Very high artistHotness: 2.98%
+
+=========================================
+F Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  6.91%
+low artistHotness:       58.01%
+Moderate artistHotness:  34.56%
+High artistHotness:      0.52%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.21%
+low artistHotness:       51.44%
+Moderate artistHotness:  44.94%
+High artistHotness:      1.27%
+Very high artistHotness: 0.14%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.48%
+low artistHotness:       21.15%
+Moderate artistHotness:  73.93%
+High artistHotness:      3.78%
+Very high artistHotness: 0.67%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       5.45%
+Moderate artistHotness:  75.75%
+High artistHotness:      16.93%
+Very high artistHotness: 1.87%
+
+=========================================
+F Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.62%
+low artistHotness:       59.83%
+Moderate artistHotness:  32.35%
+High artistHotness:      0.13%
+Very high artistHotness: 0.07%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.71%
+low artistHotness:       51.57%
+Moderate artistHotness:  44.62%
+High artistHotness:      0.97%
+Very high artistHotness: 0.12%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.57%
+low artistHotness:       21.51%
+Moderate artistHotness:  73.97%
+High artistHotness:      3.42%
+Very high artistHotness: 0.53%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.74%
+Moderate artistHotness:  79.21%
+High artistHotness:      11.61%
+Very high artistHotness: 2.43%
+
+=========================================
+G Major:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.43%
+low artistHotness:       59.8%
+Moderate artistHotness:  31.36%
+High artistHotness:      0.38%
+Very high artistHotness: 0.03%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.61%
+low artistHotness:       52.18%
+Moderate artistHotness:  44.09%
+High artistHotness:      1.06%
+Very high artistHotness: 0.06%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.44%
+low artistHotness:       23.6%
+Moderate artistHotness:  71.58%
+High artistHotness:      4.01%
+Very high artistHotness: 0.37%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.37%
+Moderate artistHotness:  76.78%
+High artistHotness:      15.25%
+Very high artistHotness: 1.59%
+
+=========================================
+G Minor:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  5.38%
+low artistHotness:       59.84%
+Moderate artistHotness:  34.77%
+High artistHotness:      0.0%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  3.13%
+low artistHotness:       52.2%
+Moderate artistHotness:  43.9%
+High artistHotness:      0.7%
+Very high artistHotness: 0.06%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.57%
+low artistHotness:       25.31%
+Moderate artistHotness:  70.18%
+High artistHotness:      3.64%
+Very high artistHotness: 0.3%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.6%
+Moderate artistHotness:  76.52%
+High artistHotness:      14.51%
+Very high artistHotness: 2.37%
+
+=========================================
+G Sharp Major:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.43%
+low artistHotness:       57.28%
+Moderate artistHotness:  34.47%
+High artistHotness:      0.83%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.66%
+low artistHotness:       52.22%
+Moderate artistHotness:  43.78%
+High artistHotness:      1.28%
+Very high artistHotness: 0.06%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.46%
+low artistHotness:       22.43%
+Moderate artistHotness:  71.96%
+High artistHotness:      4.66%
+Very high artistHotness: 0.49%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.13%
+low artistHotness:       5.5%
+Moderate artistHotness:  73.43%
+High artistHotness:      18.98%
+Very high artistHotness: 1.96%
+
+=========================================
+G Sharp Minor:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.02%
+low artistHotness:       58.03%
+Moderate artistHotness:  34.48%
+High artistHotness:      0.47%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.39%
+low artistHotness:       51.03%
+Moderate artistHotness:  45.79%
+High artistHotness:      0.76%
+Very high artistHotness: 0.03%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.27%
+low artistHotness:       20.44%
+Moderate artistHotness:  74.97%
+High artistHotness:      3.66%
+Very high artistHotness: 0.67%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.49%
+Moderate artistHotness:  79.01%
+High artistHotness:      11.83%
+Very high artistHotness: 2.67%
+
+=========================================
+A MAjor:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.35%
+low artistHotness:       59.6%
+Moderate artistHotness:  31.69%
+High artistHotness:      0.36%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.61%
+low artistHotness:       52.08%
+Moderate artistHotness:  44.19%
+High artistHotness:      1.05%
+Very high artistHotness: 0.07%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.5%
+low artistHotness:       23.28%
+Moderate artistHotness:  71.85%
+High artistHotness:      3.93%
+Very high artistHotness: 0.43%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.09%
+low artistHotness:       7.16%
+Moderate artistHotness:  76.62%
+High artistHotness:      14.24%
+Very high artistHotness: 1.9%
+
+=========================================
+A MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.55%
+low artistHotness:       60.05%
+Moderate artistHotness:  31.26%
+High artistHotness:      0.13%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.41%
+low artistHotness:       53.41%
+Moderate artistHotness:  43.38%
+High artistHotness:      0.79%
+Very high artistHotness: 0.01%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.71%
+low artistHotness:       23.77%
+Moderate artistHotness:  72.3%
+High artistHotness:      2.96%
+Very high artistHotness: 0.27%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.13%
+low artistHotness:       6.78%
+Moderate artistHotness:  80.44%
+High artistHotness:      11.47%
+Very high artistHotness: 1.17%
+
+=========================================
+A Sharp MAJOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  8.55%
+low artistHotness:       59.77%
+Moderate artistHotness:  31.16%
+High artistHotness:      0.52%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.71%
+low artistHotness:       53.06%
+Moderate artistHotness:  42.85%
+High artistHotness:      1.35%
+Very high artistHotness: 0.03%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.54%
+low artistHotness:       26.24%
+Moderate artistHotness:  69.34%
+High artistHotness:      3.5%
+Very high artistHotness: 0.38%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.62%
+low artistHotness:       8.32%
+Moderate artistHotness:  76.72%
+High artistHotness:      12.68%
+Very high artistHotness: 1.66%
+
+=========================================
+A Sharp MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.33%
+low artistHotness:       58.02%
+Moderate artistHotness:  33.99%
+High artistHotness:      0.66%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.36%
+low artistHotness:       53.21%
+Moderate artistHotness:  43.69%
+High artistHotness:      0.71%
+Very high artistHotness: 0.03%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.4%
+low artistHotness:       23.1%
+Moderate artistHotness:  72.46%
+High artistHotness:      3.53%
+Very high artistHotness: 0.52%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       8.36%
+Moderate artistHotness:  77.32%
+High artistHotness:      11.71%
+Very high artistHotness: 2.6%
+
+=========================================
+B Major:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  6.98%
+low artistHotness:       59.39%
+Moderate artistHotness:  33.22%
+High artistHotness:      0.41%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.06%
+low artistHotness:       52.87%
+Moderate artistHotness:  43.98%
+High artistHotness:      1.04%
+Very high artistHotness: 0.05%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.62%
+low artistHotness:       21.91%
+Moderate artistHotness:  73.38%
+High artistHotness:      3.51%
+Very high artistHotness: 0.57%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.0%
+low artistHotness:       6.71%
+Moderate artistHotness:  75.46%
+High artistHotness:      15.55%
+Very high artistHotness: 2.29%
+
+=========================================
+B MINOR:
+=========================================
+Low Popularity:
+-------------------
+Very low artistHotness:  7.15%
+low artistHotness:       58.72%
+Moderate artistHotness:  33.77%
+High artistHotness:      0.37%
+Very high artistHotness: 0.0%
+
+Low medium Popularity:
+-------------------
+Very low artistHotness:  2.77%
+low artistHotness:       51.85%
+Moderate artistHotness:  44.42%
+High artistHotness:      0.84%
+Very high artistHotness: 0.11%
+
+High Medium Popularity:
+-------------------
+Very low artistHotness:  0.53%
+low artistHotness:       23.71%
+Moderate artistHotness:  72.17%
+High artistHotness:      3.03%
+Very high artistHotness: 0.57%
+
+High Popularity:
+-------------------
+Very low artistHotness:  0.22%
+low artistHotness:       6.55%
+Moderate artistHotness:  77.36%
+High artistHotness:      13.54%
+Very high artistHotness: 2.33%
+
+=========================================

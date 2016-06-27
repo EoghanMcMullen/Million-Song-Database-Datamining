@@ -1,0 +1,744 @@
+C MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.02%
+low Volume:       0.2%
+Moderate volume:  1.78%
+Loud Volume:      28.54%
+Very Loud Volume: 69.45%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  1.63%
+Loud Volume:      26.44%
+Very Loud Volume: 71.85%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  1.08%
+Loud Volume:      20.29%
+Very Loud Volume: 78.6%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.12%
+Moderate volume:  0.76%
+Loud Volume:      17.03%
+Very Loud Volume: 82.09%
+
+-------------------------------------
+C MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.18%
+Moderate volume:  3.1%
+Loud Volume:      34.16%
+Very Loud Volume: 62.57%
+
+Low medium Popularity:
+Very low Volume:  0.02%
+low Volume:       0.29%
+Moderate volume:  2.83%
+Loud Volume:      29.5%
+Very Loud Volume: 67.36%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  1.8%
+Loud Volume:      23.38%
+Very Loud Volume: 74.74%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.74%
+Loud Volume:      14.57%
+Very Loud Volume: 84.69%
+
+-------------------------------------
+C Sharp MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.12%
+Moderate volume:  2.53%
+Loud Volume:      26.65%
+Very Loud Volume: 70.7%
+
+Low medium Popularity:
+Very low Volume:  0.01%
+low Volume:       0.13%
+Moderate volume:  1.5%
+Loud Volume:      21.67%
+Very Loud Volume: 76.69%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.09%
+Moderate volume:  0.96%
+Loud Volume:      15.47%
+Very Loud Volume: 83.48%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.77%
+Loud Volume:      10.81%
+Very Loud Volume: 88.43%
+
+-------------------------------------
+C Sharp MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.09%
+Moderate volume:  1.8%
+Loud Volume:      20.7%
+Very Loud Volume: 77.41%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.1%
+Moderate volume:  1.5%
+Loud Volume:      18.3%
+Very Loud Volume: 80.1%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  0.93%
+Loud Volume:      13.39%
+Very Loud Volume: 85.66%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.63%
+Loud Volume:      10.06%
+Very Loud Volume: 89.31%
+
+-------------------------------------
+D MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.02%
+Moderate volume:  1.48%
+Loud Volume:      27.03%
+Very Loud Volume: 71.47%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  1.47%
+Loud Volume:      24.23%
+Very Loud Volume: 74.23%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.01%
+Moderate volume:  0.98%
+Loud Volume:      18.66%
+Very Loud Volume: 80.35%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.75%
+Loud Volume:      13.97%
+Very Loud Volume: 85.29%
+
+-------------------------------------
+D MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.09%
+low Volume:       0.36%
+Moderate volume:  5.04%
+Loud Volume:      35.46%
+Very Loud Volume: 59.05%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.21%
+Moderate volume:  3.18%
+Loud Volume:      30.83%
+Very Loud Volume: 65.78%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  1.56%
+Loud Volume:      21.98%
+Very Loud Volume: 76.43%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.19%
+Loud Volume:      17.18%
+Very Loud Volume: 81.62%
+
+-------------------------------------
+D Sharp MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.17%
+Moderate volume:  4.86%
+Loud Volume:      42.8%
+Very Loud Volume: 52.17%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.16%
+Moderate volume:  3.45%
+Loud Volume:      35.93%
+Very Loud Volume: 60.46%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.17%
+Moderate volume:  2.28%
+Loud Volume:      27.82%
+Very Loud Volume: 69.74%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.03%
+Loud Volume:      21.71%
+Very Loud Volume: 77.26%
+
+-------------------------------------
+D Sharp MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  3.02%
+Loud Volume:      26.94%
+Very Loud Volume: 70.04%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.1%
+Moderate volume:  1.84%
+Loud Volume:      24.76%
+Very Loud Volume: 73.3%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.76%
+Loud Volume:      15.95%
+Very Loud Volume: 82.29%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.0%
+Loud Volume:      11.06%
+Very Loud Volume: 88.94%
+
+-------------------------------------
+E MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.04%
+Moderate volume:  1.36%
+Loud Volume:      26.76%
+Very Loud Volume: 71.84%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  1.35%
+Loud Volume:      25.62%
+Very Loud Volume: 72.94%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.01%
+Moderate volume:  0.97%
+Loud Volume:      19.54%
+Very Loud Volume: 79.47%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.26%
+Loud Volume:      17.12%
+Very Loud Volume: 82.62%
+
+-------------------------------------
+E MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  2.46%
+Loud Volume:      25.71%
+Very Loud Volume: 71.82%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.02%
+Moderate volume:  1.43%
+Loud Volume:      23.46%
+Very Loud Volume: 75.09%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.04%
+Moderate volume:  1.18%
+Loud Volume:      18.14%
+Very Loud Volume: 80.63%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.64%
+Loud Volume:      13.4%
+Very Loud Volume: 85.95%
+
+-------------------------------------
+F MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  2.69%
+Loud Volume:      37.45%
+Very Loud Volume: 59.79%
+
+Low medium Popularity:
+Very low Volume:  0.01%
+low Volume:       0.16%
+Moderate volume:  2.16%
+Loud Volume:      32.28%
+Very Loud Volume: 65.39%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.04%
+Moderate volume:  1.49%
+Loud Volume:      24.39%
+Very Loud Volume: 74.08%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.12%
+Moderate volume:  1.09%
+Loud Volume:      16.0%
+Very Loud Volume: 82.79%
+
+-------------------------------------
+F MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.07%
+Moderate volume:  1.93%
+Loud Volume:      29.64%
+Very Loud Volume: 68.35%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.08%
+Moderate volume:  1.88%
+Loud Volume:      26.06%
+Very Loud Volume: 71.97%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.02%
+Moderate volume:  1.0%
+Loud Volume:      18.66%
+Very Loud Volume: 80.32%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.6%
+Loud Volume:      10.34%
+Very Loud Volume: 89.07%
+
+-------------------------------------
+F Sharp MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.06%
+Moderate volume:  1.61%
+Loud Volume:      25.84%
+Very Loud Volume: 72.48%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.16%
+Moderate volume:  1.54%
+Loud Volume:      21.58%
+Very Loud Volume: 76.72%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.06%
+Moderate volume:  0.97%
+Loud Volume:      16.36%
+Very Loud Volume: 82.61%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.72%
+Loud Volume:      11.05%
+Very Loud Volume: 88.24%
+
+-------------------------------------
+F Sharp MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.07%
+Moderate volume:  1.14%
+Loud Volume:      20.79%
+Very Loud Volume: 78.01%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.05%
+Moderate volume:  0.96%
+Loud Volume:      18.31%
+Very Loud Volume: 80.68%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.04%
+Moderate volume:  0.59%
+Loud Volume:      14.7%
+Very Loud Volume: 84.67%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.12%
+Loud Volume:      9.93%
+Very Loud Volume: 88.95%
+
+-------------------------------------
+G Major:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.1%
+Moderate volume:  1.38%
+Loud Volume:      27.7%
+Very Loud Volume: 70.82%
+
+Low medium Popularity:
+Very low Volume:  0.01%
+low Volume:       0.05%
+Moderate volume:  1.11%
+Loud Volume:      23.86%
+Very Loud Volume: 74.97%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  0.78%
+Loud Volume:      18.33%
+Very Loud Volume: 80.85%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.06%
+Moderate volume:  0.34%
+Loud Volume:      14.34%
+Very Loud Volume: 85.26%
+
+-------------------------------------
+G Minor:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.18%
+Moderate volume:  4.41%
+Loud Volume:      35.04%
+Very Loud Volume: 60.37%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.11%
+Moderate volume:  3.3%
+Loud Volume:      29.73%
+Very Loud Volume: 66.86%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.12%
+Moderate volume:  1.64%
+Loud Volume:      21.82%
+Very Loud Volume: 76.42%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.79%
+Loud Volume:      16.89%
+Very Loud Volume: 82.32%
+
+-------------------------------------
+G Sharp Major:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  2.73%
+Loud Volume:      32.96%
+Very Loud Volume: 64.31%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.11%
+Moderate volume:  1.86%
+Loud Volume:      25.46%
+Very Loud Volume: 72.58%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  0.95%
+Loud Volume:      16.84%
+Very Loud Volume: 82.17%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.52%
+Loud Volume:      9.55%
+Very Loud Volume: 89.92%
+
+-------------------------------------
+G Sharp Minor:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  2.03%
+Loud Volume:      24.02%
+Very Loud Volume: 73.95%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.17%
+Moderate volume:  2.35%
+Loud Volume:      20.38%
+Very Loud Volume: 77.1%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.09%
+Moderate volume:  0.85%
+Loud Volume:      16.73%
+Very Loud Volume: 82.33%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.76%
+Loud Volume:      10.69%
+Very Loud Volume: 88.55%
+
+-------------------------------------
+A MAjor:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.03%
+Moderate volume:  1.19%
+Loud Volume:      24.83%
+Very Loud Volume: 73.95%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.05%
+Moderate volume:  0.96%
+Loud Volume:      22.16%
+Very Loud Volume: 76.82%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.05%
+Moderate volume:  0.63%
+Loud Volume:      17.11%
+Very Loud Volume: 82.22%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.69%
+Loud Volume:      12.68%
+Very Loud Volume: 86.63%
+
+-------------------------------------
+A MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.13%
+Moderate volume:  2.46%
+Loud Volume:      27.68%
+Very Loud Volume: 69.73%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.07%
+Moderate volume:  2.13%
+Loud Volume:      24.56%
+Very Loud Volume: 73.24%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.01%
+Moderate volume:  1.33%
+Loud Volume:      21.28%
+Very Loud Volume: 77.38%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.17%
+Loud Volume:      16.69%
+Very Loud Volume: 82.14%
+
+-------------------------------------
+A Sharp MAJOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.06%
+Moderate volume:  2.72%
+Loud Volume:      38.67%
+Very Loud Volume: 58.55%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.13%
+Moderate volume:  2.17%
+Loud Volume:      32.46%
+Very Loud Volume: 65.23%
+
+High Medium Popularity:
+Very low Volume:  0.02%
+low Volume:       0.02%
+Moderate volume:  1.27%
+Loud Volume:      23.63%
+Very Loud Volume: 75.06%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.46%
+Loud Volume:      17.46%
+Very Loud Volume: 81.08%
+
+-------------------------------------
+A Sharp MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  2.3%
+Loud Volume:      22.17%
+Very Loud Volume: 75.53%
+
+Low medium Popularity:
+Very low Volume:  0.01%
+low Volume:       0.04%
+Moderate volume:  1.4%
+Loud Volume:      20.11%
+Very Loud Volume: 78.43%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.04%
+Moderate volume:  0.86%
+Loud Volume:      14.61%
+Very Loud Volume: 84.49%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.19%
+Moderate volume:  0.37%
+Loud Volume:      9.67%
+Very Loud Volume: 89.78%
+
+-------------------------------------
+B Major:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.23%
+Moderate volume:  1.4%
+Loud Volume:      24.49%
+Very Loud Volume: 73.88%
+
+Low medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.09%
+Moderate volume:  1.31%
+Loud Volume:      20.61%
+Very Loud Volume: 77.98%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.06%
+Moderate volume:  0.94%
+Loud Volume:      16.98%
+Very Loud Volume: 82.02%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.15%
+Loud Volume:      12.04%
+Very Loud Volume: 87.8%
+
+-------------------------------------
+B MINOR:
+-------------------------------------
+Low Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  1.04%
+Loud Volume:      21.18%
+Very Loud Volume: 77.79%
+
+Low medium Popularity:
+Very low Volume:  0.01%
+low Volume:       0.05%
+Moderate volume:  0.92%
+Loud Volume:      18.12%
+Very Loud Volume: 80.9%
+
+High Medium Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.58%
+Loud Volume:      14.97%
+Very Loud Volume: 84.46%
+
+High Popularity:
+Very low Volume:  0.0%
+low Volume:       0.0%
+Moderate volume:  0.55%
+Loud Volume:      10.43%
+Very Loud Volume: 89.01%
+
+-------------------------------------
