@@ -3,3 +3,5 @@ The aim of this project was to use the data provided by the Million Song Dataset
 
 The data had to be converted to csv so it was usable, the next step was to clean the data so all unusable rows were removed. 
 The data was then examined using Java.
+
+Here's the report of our findings: Million-Song-Database-Datamining/Group20Report.pdf
